@@ -53,28 +53,29 @@
             android:textAppearance="?android:attr/textAppearanceMedium" />
 
         <TextView
-            android:layout_below="@+id/navTitle"
             android:id="@+id/navSubTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/subTitle"
-            android:gravity="center_vertical"
+            android:layout_below="@+id/navTitle"
             android:background="@color/colorPrimary"
+            android:gravity="center_vertical"
             android:paddingLeft="@dimen/nav_drawer_item_padding"
-            android:textColor="@android:color/white"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:paddingBottom="@dimen/item_margin"
+            android:text="@string/subTitle"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@android:color/white" />
 
         <TextView
             android:id="@+id/navHeader"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:layout_below="@+id/navSubTitle"
-            android:text="@string/catlbl"
+            android:background="@color/colorAccent"
             android:gravity="center_vertical"
-            android:background="@color/colorPrimary"
             android:paddingLeft="@dimen/nav_drawer_item_padding"
-            android:textColor="@android:color/white"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
+            android:text="@string/catlbl"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@android:color/black" />
 
 
         <ListView

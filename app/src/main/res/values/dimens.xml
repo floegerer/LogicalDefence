@@ -10,5 +10,5 @@
     <dimen name="nav_drawer_item_padding">16dp</dimen>
 
     <dimen name="item_height">48dp</dimen>
-    <dimen name="item_margin">8dp</dimen>
+    <dimen name="item_margin">12dp</dimen>
 </resources>

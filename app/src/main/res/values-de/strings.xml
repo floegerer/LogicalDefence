@@ -17,16 +17,16 @@
     <string name="section_6">Angriff</string>
 
     <!--fallacies 1-->
-    <string name="fallacies_titles_1_1">Begründung durch anonyme Autoritäten</string>
-    <string name="fallacies_titles_1_2">Begründung durch Autorität</string>
-    <string name="fallacies_titles_1_3">Begründung durch häufige Praxis</string>
-    <string name="fallacies_titles_1_4">Begründung durch Ignoranz</string>
-    <string name="fallacies_titles_1_5">Begründung durch Unglaubwürdigkeit</string>
-    <string name="fallacies_titles_1_6">Begründung durch Geld</string>
-    <string name="fallacies_titles_1_7">Begründung durch Neuheit</string>
-    <string name="fallacies_titles_1_8">Begründung durch Volksglaube</string>
-    <string name="fallacies_titles_1_9">Begründung durch Wahrscheinlichkeit</string>
-    <string name="fallacies_titles_1_10">Begründung durch Tradition</string>
+    <string name="fallacies_titles_1_1">🔬  Begründung durch anonyme Autoritäten</string>
+    <string name="fallacies_titles_1_2">👑  Begründung durch Autorität</string>
+    <string name="fallacies_titles_1_3">🔄  Begründung durch häufige Praxis</string>
+    <string name="fallacies_titles_1_4">✋  Begründung durch Ignoranz</string>
+    <string name="fallacies_titles_1_5">🦄  Begründung durch Unglaubwürdigkeit</string>
+    <string name="fallacies_titles_1_6">💵  Begründung durch Geld</string>
+    <string name="fallacies_titles_1_7">💡  Begründung durch Neuheit</string>
+    <string name="fallacies_titles_1_8">👴  Begründung durch Volksglaube</string>
+    <string name="fallacies_titles_1_9">🎲  Begründung durch Wahrscheinlichkeit</string>
+    <string name="fallacies_titles_1_10">🎎  Begründung durch Tradition</string>
 
     <string name="fallacies_descs_1_1">Begründung mit der Erkenntnis eines \'Experten\', einer \'Studie\' oder sonst einer größeren Gruppe (etwa \'Wissenschaftler\').</string>
     <string name="fallacies_descs_1_2">Argumentum Ad Verecundiam (lat. für \'Beweis durch Ehrfurcht\'): Etwas soll wahr sein, weil es ein \'Experte\' sagt.</string>
@@ -118,7 +118,7 @@
     <string name="fallacies_examples_3_9">\'Was bringen all die Aktionen gegen betrunkenes Autofahren? Die Leute machen es doch trotzdem.\'</string>
     <string name="fallacies_examples_3_10">\'Für dich mag es wahr sein, für mich aber nicht.\'</string>
     <string name="fallacies_examples_3_11">\'Diese große Schuhmarke produziert in Kinderarbeit. Also sind alle großen Schuhmarken die Ausbeuter von kleinen Kindern.\'</string>
-    <string name="fallacies_examples_3_12">\'Die jungen Männer haben einen Aufstand gemacht, weil sie nicht erzogen wurden. \'</string>
+    <string name="fallacies_examples_3_12">\'Die jungen Männer haben einen Aufstand gemacht, weil sie nicht erzogen wurden.\'</string>
     <string name="fallacies_examples_3_13">\'Eine Theorie muss nicht belegt sein. Es heißt Evolutionstheorie. Also ist die Evolutionstheorie noch gar nicht belegt.\'</string>
 
     <!--fallacies 4-->
@@ -134,7 +134,7 @@
     <string name="fallacies_descs_4_2">Die Konklusion folgt aus der Prämisse, die wiederum aus der Konklusion folgt.</string>
     <string name="fallacies_descs_4_3">Es wird behauptet, dass zwei zeitlich zusammenhängende Ereignisse eine Ursache-Wirkung-Beziehung haben. Auch bekannt als \'Scheinkorrelation\'.</string>
     <string name="fallacies_descs_4_4">Es gibt nicht nur diese Erklärung, also ist es falsch, anzunehmen, dass diese die Ursache ist.</string>
-    <string name="fallacies_descs_4_5">Es wird behauptet, dass ein Ereigniss ein anderes ausgelöst hat, obwohl ein anderes auch vorstellbar ist.</string>
+    <string name="fallacies_descs_4_5">Es wird behauptet, dass ein Ereignis ein anderes ausgelöst hat, obwohl ein anderes auch vorstellbar ist.</string>
     <string name="fallacies_descs_4_6">Weil ein bestimmtes Ereignis auf ein anderes folgt, soll das erste auch die Ursache für das zweite sein.</string>
     <string name="fallacies_descs_4_7">Weil etwas falsch ist, kann es durch weitere falsche Schritte wieder richtig werden.</string>
 
@@ -162,7 +162,7 @@
     <string name="fallacies_descs_5_1">Es wird versucht, eine lieb gewordene Ansicht zu schützen, indem immer wieder das Argument hinterfragt und Gegenargumente ausgeblendet werden.</string>
     <string name="fallacies_descs_5_2">Andere Faktoren, die das Argument begründen, werden nicht erwähnt, so dass nur die Schlussfolgerung die Behauptung stützt.</string>
     <string name="fallacies_descs_5_3">Von einem unrepräsentativen Beispiel wird verallgemeinert, um das Argument zu stützen.</string>
-    <string name="fallacies_descs_5_4">Nur nach Fakten suchen, die die These stützen, anstatt auch die anderen Fakten zu prüfen.</string>
+    <string name="fallacies_descs_5_4">Nur nach Fakten suchen, welche die These stützen, anstatt auch die anderen Fakten zu prüfen.</string>
     <string name="fallacies_descs_5_5">Es wird der falsche Eindruck erweckt, dass es nur zwei Alternativen gibt.</string>
     <string name="fallacies_descs_5_6">Eine unverblümte Lüge wird als wahr dargestellt.</string>
     <string name="fallacies_descs_5_7">Etwas wird dadurch wahrer, dass es mit mehr Details dargestellt wird.</string>
