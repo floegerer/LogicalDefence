@@ -9,31 +9,31 @@
     <string name="subTitle">Die schöne Liste der logischen Fehlschlüsse</string>
 
     <!--sections-->
-    <string name="section_1">Pseudologik</string>
+    <string name="section_1">Scheinargumente</string>
     <string name="section_2">Emotionale Argumente</string>
-    <string name="section_3">Fehlerhafte Deduktion</string>
-    <string name="section_4">Vertauschte Ursache &amp; Wirkung</string>
+    <string name="section_3">Generalisierung &amp; Deduktion</string>
+    <string name="section_4">Ursache &amp; Wirkung</string>
     <string name="section_5">Inhaltliche Manipulation</string>
-    <string name="section_6">Angriff</string>
+    <string name="section_6">Angriffe</string>
 
     <!--fallacies 1-->
-    <string name="fallacies_titles_1_1">🔬  Begründung durch anonyme Autoritäten</string>
-    <string name="fallacies_titles_1_2">👑  Begründung durch Autorität</string>
-    <string name="fallacies_titles_1_3">🔄  Begründung durch häufige Praxis</string>
-    <string name="fallacies_titles_1_4">✋  Begründung durch Ignoranz</string>
-    <string name="fallacies_titles_1_5">🦄  Begründung durch Unglaubwürdigkeit</string>
-    <string name="fallacies_titles_1_6">💵  Begründung durch Geld</string>
-    <string name="fallacies_titles_1_7">💡  Begründung durch Neuheit</string>
-    <string name="fallacies_titles_1_8">👴  Begründung durch Volksglaube</string>
-    <string name="fallacies_titles_1_9">🎲  Begründung durch Wahrscheinlichkeit</string>
-    <string name="fallacies_titles_1_10">🎎  Begründung durch Tradition</string>
+    <string name="fallacies_titles_1_1">🔬  Begründung durch anonyme Autoritäten</string>
+    <string name="fallacies_titles_1_2">👑  Begründung durch Autorität</string>
+    <string name="fallacies_titles_1_3">➰  Begründung durch häufige Praxis</string>
+    <string name="fallacies_titles_1_4">✋  Begründung durch Ignoranz</string>
+    <string name="fallacies_titles_1_5">🧙  Begründung durch Unglaubwürdigkeit</string>
+    <string name="fallacies_titles_1_6">💵  Begründung durch Geld</string>
+    <string name="fallacies_titles_1_7">💡  Begründung durch Neuheit</string>
+    <string name="fallacies_titles_1_8">👴  Begründung durch Volksglaube</string>
+    <string name="fallacies_titles_1_9">🎲  Begründung durch Wahrscheinlichkeit</string>
+    <string name="fallacies_titles_1_10">🎎  Begründung durch Tradition</string>
 
     <string name="fallacies_descs_1_1">Begründung mit der Erkenntnis eines \'Experten\', einer \'Studie\' oder sonst einer größeren Gruppe (etwa \'Wissenschaftler\').</string>
-    <string name="fallacies_descs_1_2">Argumentum Ad Verecundiam (lat. für \'Beweis durch Ehrfurcht\'): Etwas soll wahr sein, weil es ein \'Experte\' sagt.</string>
+    <string name="fallacies_descs_1_2">Etwas soll wahr sein, weil es ein \'Experte\' oder eine andere Autorität sagt. (Argumentum Ad Verecundiam)</string>
     <string name="fallacies_descs_1_3">Es wird behauptet, dass etwas wahr ist, weil es immer so gemacht wird.</string>
     <string name="fallacies_descs_1_4">Etwas ist wahr, weil es nicht als falsch bewiesen wurde (oder anders herum).</string>
     <string name="fallacies_descs_1_5">Weil etwas schwer vorstellbar ist, wird angenommen, dass es nicht wahr sein kann.</string>
-    <string name="fallacies_descs_1_6">Es wird angenommen, dass, weil jemand reich ist, oder weil etwas teuer ist, sich der Wahrheitsgehalt einer Aussage ändert.</string>
+    <string name="fallacies_descs_1_6">Es wird angenommen, dass sich der Wahrheitsgehalt einer Aussage ändert, weil jemand reich ist oder etwas teuer ist. </string>
     <string name="fallacies_descs_1_7">Etwas soll besser sein, nur weil es neu ist.</string>
     <string name="fallacies_descs_1_8">Es wird behauptet, dass etwas wahr ist, weil die Mehrheit es glaubt.</string>
     <string name="fallacies_descs_1_9">Es wird angenommen, weil etwas geschehen kann, wird es geschehen.</string>
@@ -51,14 +51,14 @@
     <string name="fallacies_examples_1_10">\'Es gab immer eine Regierung. Eine Gesellschaft ohne Regierung kann es also nicht geben.\'</string>
 
     <!--fallacies 2-->
-    <string name="fallacies_titles_2_1">Begründung durch Konsequenzen</string>
-    <string name="fallacies_titles_2_2">Begründung durch Angst</string>
-    <string name="fallacies_titles_2_3">Begründung durch Schmeichelei</string>
-    <string name="fallacies_titles_2_4">Begründung durch Natürlichkeit</string>
-    <string name="fallacies_titles_2_5">Begründung durch Schandhaftigkeit</string>
-    <string name="fallacies_titles_2_6">Begründung durch Spott</string>
-    <string name="fallacies_titles_2_7">Begründung durch Boshaftigkeit</string>
-    <string name="fallacies_titles_2_8">Begründung durch Wunschdenken</string>
+    <string name="fallacies_titles_2_1">🔗  Begründung durch Konsequenzen</string>
+    <string name="fallacies_titles_2_2">😱  Begründung durch Angst</string>
+    <string name="fallacies_titles_2_3">🏆  Begründung durch Schmeichelei</string>
+    <string name="fallacies_titles_2_4">🌿  Begründung durch Natürlichkeit</string>
+    <string name="fallacies_titles_2_5">😥  Begründung durch Schandhaftigkeit</string>
+    <string name="fallacies_titles_2_6">😝  Begründung durch Spott</string>
+    <string name="fallacies_titles_2_7">😠  Begründung durch Boshaftigkeit</string>
+    <string name="fallacies_titles_2_8">🤡  Begründung durch Wunschdenken</string>
 
     <string name="fallacies_descs_2_1">Nego Consequentiam: Etwas kann nicht wahr sein, weil dann auch etwas unvorstellbares wahr sein müsste.</string>
     <string name="fallacies_descs_2_2">Etwas wird durch die Gefährlichkeit der gegnerischen Position begründet.</string>
@@ -79,19 +79,19 @@
     <string name="fallacies_examples_2_8">\'Die Kanzlerin lügt nicht. Wir haben sie doch gewählt.\'</string>
 
     <!--fallacies 3-->
-    <string name="fallacies_titles_3_1">Beweis durch Beispiel</string>
-    <string name="fallacies_titles_3_2">Verallgemeinerndes Vorurteil</string>
-    <string name="fallacies_titles_3_3">Einfaches Vorurteil</string>
-    <string name="fallacies_titles_3_4">Designfehler</string>
-    <string name="fallacies_titles_3_5">Spielerfehlschluss</string>
-    <string name="fallacies_titles_3_6">Vorschnelle Verallgemeinerung</string>
-    <string name="fallacies_titles_3_7">Zur Schlussfolgerung springen</string>
-    <string name="fallacies_titles_3_8">Goldene Mitte</string>
-    <string name="fallacies_titles_3_9">Perfektionismus</string>
-    <string name="fallacies_titles_3_10">Zugehörigkeit</string>
-    <string name="fallacies_titles_3_11">Fokus</string>
-    <string name="fallacies_titles_3_12">Pauschalisierung</string>
-    <string name="fallacies_titles_3_13">Mangelnde Differenzierung</string>
+    <string name="fallacies_titles_3_1">🚬  Beweis durch Beispiel</string>
+    <string name="fallacies_titles_3_2">👳‍♂️  Verallgemeinerndes Vorurteil</string>
+    <string name="fallacies_titles_3_3">👷‍♂️  Einfaches Vorurteil</string>
+    <string name="fallacies_titles_3_4">🎨  Designfehler</string>
+    <string name="fallacies_titles_3_5">♣  Spielerfehlschluss</string>
+    <string name="fallacies_titles_3_6">👩‍🦰  Vorschnelle Verallgemeinerung</string>
+    <string name="fallacies_titles_3_7">🏁  Zur Schlussfolgerung springen</string>
+    <string name="fallacies_titles_3_8">👍  Goldene Mitte</string>
+    <string name="fallacies_titles_3_9">👌  Perfektionismus</string>
+    <string name="fallacies_titles_3_10">🕌  Zugehörigkeit</string>
+    <string name="fallacies_titles_3_11">🔍  Falscher Fokus</string>
+    <string name="fallacies_titles_3_12">🌏  Pauschalisierung</string>
+    <string name="fallacies_titles_3_13">🏷  Mangelnde Differenzierung</string>
 
     <string name="fallacies_descs_3_1">Etwas durch Studien erwiesenes wird durch eine persönliche Eigenerfahrung widerlegt.</string>
     <string name="fallacies_descs_3_2">Eine Eigenschaft, die auf einige Mitglieder einer Gruppe zutrifft, wird auf die Gesamtheit übertragen.</string>
@@ -122,20 +122,20 @@
     <string name="fallacies_examples_3_13">\'Eine Theorie muss nicht belegt sein. Es heißt Evolutionstheorie. Also ist die Evolutionstheorie noch gar nicht belegt.\'</string>
 
     <!--fallacies 4-->
-    <string name="fallacies_titles_4_1">Petitio Principii</string>
-    <string name="fallacies_titles_4_2">Selbstreferenzielle Logik</string>
-    <string name="fallacies_titles_4_3">Cum Hoc Ergo Propter Hoc</string>
-    <string name="fallacies_titles_4_4">Bestreiten des Vorläufers</string>
-    <string name="fallacies_titles_4_5">Etwas naheliegendes Ignorieren</string>
-    <string name="fallacies_titles_4_6">Post Hoc Ergo Propter Hoc</string>
-    <string name="fallacies_titles_4_7">Doppelt falsch ist Richtig</string>
+    <string name="fallacies_titles_4_1">🥇  Einzige Erklärung</string>
+    <string name="fallacies_titles_4_2">💫  Selbstreferenzielle Logik</string>
+    <string name="fallacies_titles_4_3">🎭  Scheinbarer Zusammenhang</string>
+    <string name="fallacies_titles_4_4">🌱  Bestreiten der Ursache</string>
+    <string name="fallacies_titles_4_5">🕳  Etwas naheliegendes Ignorieren</string>
+    <string name="fallacies_titles_4_6">🕰  Zeitliche Abfolge</string>
+    <string name="fallacies_titles_4_7">💢  Doppelt falsch ist Richtig</string>
 
-    <string name="fallacies_descs_4_1">Es kann nur eine mögliche Erklärung geben.</string>
+    <string name="fallacies_descs_4_1">Es kann nur eine mögliche Erklärung geben. (Petitio Principii)</string>
     <string name="fallacies_descs_4_2">Die Konklusion folgt aus der Prämisse, die wiederum aus der Konklusion folgt.</string>
-    <string name="fallacies_descs_4_3">Es wird behauptet, dass zwei zeitlich zusammenhängende Ereignisse eine Ursache-Wirkung-Beziehung haben. Auch bekannt als \'Scheinkorrelation\'.</string>
+    <string name="fallacies_descs_4_3">Es wird behauptet, dass zwei zeitlich zusammenhängende Ereignisse eine Ursache-Wirkung-Beziehung haben. (Cum Hoc Ergo Propter Hoc,  Scheinkorrelation)</string>
     <string name="fallacies_descs_4_4">Es gibt nicht nur diese Erklärung, also ist es falsch, anzunehmen, dass diese die Ursache ist.</string>
     <string name="fallacies_descs_4_5">Es wird behauptet, dass ein Ereignis ein anderes ausgelöst hat, obwohl ein anderes auch vorstellbar ist.</string>
-    <string name="fallacies_descs_4_6">Weil ein bestimmtes Ereignis auf ein anderes folgt, soll das erste auch die Ursache für das zweite sein.</string>
+    <string name="fallacies_descs_4_6">Weil ein bestimmtes Ereignis auf ein anderes folgt, soll das erste auch die Ursache für das zweite sein. (Post Hoc Ergo Propter Hoc)</string>
     <string name="fallacies_descs_4_7">Weil etwas falsch ist, kann es durch weitere falsche Schritte wieder richtig werden.</string>
 
     <string name="fallacies_examples_4_1">\'Wenn geheiratet wird kommt es oft zu Kindern. Deswegen gibt es die Ehe.\'</string>
@@ -147,22 +147,22 @@
     <string name="fallacies_examples_4_7">\'Natürlich sind die Bedingungen im Gefängnis schlimm. Aber im Gefängnis sind ja auch Kriminelle! \'</string>
 
     <!--fallacies 5-->
-    <string name="fallacies_titles_5_1">Wiederholung</string>
-    <string name="fallacies_titles_5_2">Die Frage herausfordern</string>
-    <string name="fallacies_titles_5_3">Generalisierung mit Tendenz</string>
-    <string name="fallacies_titles_5_4">Confirmation Bias</string>
-    <string name="fallacies_titles_5_5">Falsches Dilemma</string>
-    <string name="fallacies_titles_5_6">Lüge</string>
-    <string name="fallacies_titles_5_7">Irreführender Detailreichtum</string>
-    <string name="fallacies_titles_5_8">Finte</string>
-    <string name="fallacies_titles_5_9">Dammbruchargument</string>
-    <string name="fallacies_titles_5_10">Unterdrückte Erkenntnis</string>
-    <string name="fallacies_titles_5_11">Unwiderlegbarkeit</string>
+    <string name="fallacies_titles_5_1">➰  Wiederholung</string>
+    <string name="fallacies_titles_5_2">🤨  Frage herausfordern</string>
+    <string name="fallacies_titles_5_3">🌍  Generalisierung mit Tendenz</string>
+    <string name="fallacies_titles_5_4">🙈  Einseitige Fakten </string>
+    <string name="fallacies_titles_5_5">🧲  Falsches Dilemma</string>
+    <string name="fallacies_titles_5_6">🤥  Unwahrheit sagen</string>
+    <string name="fallacies_titles_5_7">🖼  Irreführender Detailreichtum</string>
+    <string name="fallacies_titles_5_8">🍖  Finte legen</string>
+    <string name="fallacies_titles_5_9">🌊  Dammbruchargument</string>
+    <string name="fallacies_titles_5_10">🔮  Unterdrückte Erkenntnis</string>
+    <string name="fallacies_titles_5_11">👹  Unwiderlegbarkeit</string>
 
     <string name="fallacies_descs_5_1">Es wird versucht, eine lieb gewordene Ansicht zu schützen, indem immer wieder das Argument hinterfragt und Gegenargumente ausgeblendet werden.</string>
     <string name="fallacies_descs_5_2">Andere Faktoren, die das Argument begründen, werden nicht erwähnt, so dass nur die Schlussfolgerung die Behauptung stützt.</string>
     <string name="fallacies_descs_5_3">Von einem unrepräsentativen Beispiel wird verallgemeinert, um das Argument zu stützen.</string>
-    <string name="fallacies_descs_5_4">Nur nach Fakten suchen, welche die These stützen, anstatt auch die anderen Fakten zu prüfen.</string>
+    <string name="fallacies_descs_5_4">Es wird nur mit Fakten argumentiert, welche die These stützen, anstatt auch andere Fakten zu prüfen. (Confirmation bias)</string>
     <string name="fallacies_descs_5_5">Es wird der falsche Eindruck erweckt, dass es nur zwei Alternativen gibt.</string>
     <string name="fallacies_descs_5_6">Eine unverblümte Lüge wird als wahr dargestellt.</string>
     <string name="fallacies_descs_5_7">Etwas wird dadurch wahrer, dass es mit mehr Details dargestellt wird.</string>
@@ -184,16 +184,16 @@
     <string name="fallacies_examples_5_11">\'Er lügt, weil er vom Teufel besessen ist.\'</string>
 
     <!--fallacies 6-->
-    <string name="fallacies_titles_6_1">Ad Personam</string>
-    <string name="fallacies_titles_6_2">Last des Beweises</string>
-    <string name="fallacies_titles_6_3">Argumentum Ab Utili</string>
-    <string name="fallacies_titles_6_4">Vererbter Fehler</string>
-    <string name="fallacies_titles_6_5">Schuld durch Genossenschaft</string>
-    <string name="fallacies_titles_6_6">Strohmann</string>
+    <string name="fallacies_titles_6_1">🗡  Persönliche Attacke</string>
+    <string name="fallacies_titles_6_2">🧱  Last des Beweises</string>
+    <string name="fallacies_titles_6_3">📙  Nutzen für den Urheber</string>
+    <string name="fallacies_titles_6_4">🧬  Vererbter Fehler</string>
+    <string name="fallacies_titles_6_5">🤝  Schuld durch Genossenschaft</string>
+    <string name="fallacies_titles_6_6">🧸  Strohmann</string>
 
-    <string name="fallacies_descs_6_1">Das Argumentum Ad Personam ist ein Ausweg, wenn der Gegner zu gewinnen scheint. Es wird vom Gegenstand des Streits abgewichen und die Person des Gegners verbal angegriffen.</string>
+    <string name="fallacies_descs_6_1">Es wird vom Gegenstand des Streits abgewichen und die Person des Gegners verbal angegriffen. (Argumentum ad personam)</string>
     <string name="fallacies_descs_6_2">Ich muss nichts beweisen. Beweise, dass ich falsch liege.</string>
-    <string name="fallacies_descs_6_3">Eine Behauptung kann nicht wahr sein, weil sie dem Urheber nutzt.</string>
+    <string name="fallacies_descs_6_3">Eine Behauptung kann nicht wahr sein, weil sie dem Urheber nutzt. (Argumentum Ab Utili)</string>
     <string name="fallacies_descs_6_4">Es wird auf die Motivation des Arguments, anstatt auf dessen inhaltliche Richtigkeit geachtet.</string>
     <string name="fallacies_descs_6_5">Ein Argument wird dadurch schlecht, indem es mit einer bestimmten Person oder Gruppe assoziiert wird.</string>
     <string name="fallacies_descs_6_6">Man erzeugt eine Karikatur der gegnerischen Position und argumentiert dann gegen diese.</string>
