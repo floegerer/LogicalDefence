@@ -43,7 +43,7 @@ public class FallacyListAdapter extends RecyclerView.Adapter<FallacyListAdapter.
 
         @Override
         public boolean onLongClick(View view) {
-            String shareBody = f.getShareString() + c.getString(R.string.from);
+            String shareBody = f.getShareString(); //  + c.getString(R.string.from);
             Intent sharingIntent = new Intent(android.content.Intent.ACTION_SEND);
             sharingIntent.setType("text/plain");
             sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, shareBody);

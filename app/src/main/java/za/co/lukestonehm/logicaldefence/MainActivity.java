@@ -32,9 +32,7 @@ import java.util.List;
 import java.util.Locale;
 
 
-public class MainActivity extends AppCompatActivity
-        implements NavCallback {
-
+public class MainActivity extends AppCompatActivity implements NavCallback {
 
     public static final String TAG = "LogicalDefence";
 
@@ -122,7 +120,7 @@ public class MainActivity extends AppCompatActivity
         mCurrentSelectedPosition = appPrefs.getSection();
 
         mTitle = sections[mCurrentSelectedPosition];
-        setTitle(mTitle);
+        setTitle(mTitle.subSequence(4, mTitle.length()));
         mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
         changeSection(mCurrentSelectedPosition);
     }
@@ -141,7 +139,7 @@ public class MainActivity extends AppCompatActivity
         appPrefs.setSection(position);
 
         mTitle = sections[position];
-        setTitle(mTitle);
+        setTitle(mTitle.subSequence(4, mTitle.length()));
     }
 
     private void changeSection(int position) {
