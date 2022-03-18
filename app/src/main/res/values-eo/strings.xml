@@ -211,7 +211,7 @@
     <string name="about_more">Simpla, tamen bela aplikaĵo montranta logikajn trompojn de la mondo en okul-agrabla maniero.\n\nTiu ĉi aplikaĵo estas malfermkoda projekto eldonita laŭ la permesilo GPL 2.\n\nVi povas kontroli la fontkodon, kiu estas gastigata en GitHub.\n\nhttps://github.com/LukeStonehm/LogicalDefence/</string>
 
     <string name="share">Diskonigi sofismon</string>
-    <string name="from">\n\nDiskonigita per la aplikaĵo Logical Defence</string>
+    <string name="from">\n\nDiskonigita per la aplikaĵo Dagger</string>
 
     <string name="action_language">Lingvo</string>
     <string name="language_dialog_title">Elekti lingvon</string>

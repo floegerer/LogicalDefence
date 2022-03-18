@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Logische Selbstverteidigung</string>
+    <string name="app_name">Dagger</string>
     <string name="navigation_drawer_open">Navigationsmenü öffnen</string>
     <string name="navigation_drawer_close">Navigationsmenü schließen</string>
     <string name="action_about">Info</string>
     <string name="catlbl">Kategorien</string>
-    <string name="subTitle">Die schöne Liste der logischen Fehlschlüsse</string>
+    <string name="subTitle">Dunkle Rhetorik</string>
 
     <!--sections-->
-    <string name="section_1">Scheinargumente</string>
-    <string name="section_2">Emotionale Argumente</string>
-    <string name="section_3">Generalisierung &amp; Deduktion</string>
-    <string name="section_4">Ursache &amp; Wirkung</string>
-    <string name="section_5">Inhaltliche Manipulation</string>
-    <string name="section_6">Angriffe</string>
+    <string name="section_1">💵  Scheinbare Argumente</string>
+    <string name="section_2">🏆  Emotionale Argumente</string>
+    <string name="section_3">🌏  Generalisierung &amp; Deduktion</string>
+    <string name="section_4">🌱  Ursache &amp; Wirkung</string>
+    <string name="section_5">🌊  Inhaltliche Manipulation</string>
+    <string name="section_6">🗡  Angriffe</string>
 
     <!--fallacies 1-->
-    <string name="fallacies_titles_1_1">🔬  Begründung durch anonyme Autoritäten</string>
+    <string name="fallacies_titles_1_1">🔬  Begründung durch Dritte</string>
     <string name="fallacies_titles_1_2">👑  Begründung durch Autorität</string>
     <string name="fallacies_titles_1_3">➰  Begründung durch häufige Praxis</string>
     <string name="fallacies_titles_1_4">✋  Begründung durch Ignoranz</string>
     <string name="fallacies_titles_1_5">🧙  Begründung durch Unglaubwürdigkeit</string>
     <string name="fallacies_titles_1_6">💵  Begründung durch Geld</string>
     <string name="fallacies_titles_1_7">💡  Begründung durch Neuheit</string>
-    <string name="fallacies_titles_1_8">👴  Begründung durch Volksglaube</string>
+    <string name="fallacies_titles_1_8">👴  Begründung durch Volksglauben </string>
     <string name="fallacies_titles_1_9">🎲  Begründung durch Wahrscheinlichkeit</string>
     <string name="fallacies_titles_1_10">🎎  Begründung durch Tradition</string>
 
-    <string name="fallacies_descs_1_1">Begründung mit der Erkenntnis eines \'Experten\', einer \'Studie\' oder sonst einer größeren Gruppe (etwa \'Wissenschaftler\').</string>
-    <string name="fallacies_descs_1_2">Etwas soll wahr sein, weil es ein \'Experte\' oder eine andere Autorität sagt. (Argumentum Ad Verecundiam)</string>
+    <string name="fallacies_descs_1_1">Begründung mit der Erkenntnis eines \"Experten\", einer \"Studie\" oder sonst einer größeren Gruppe (etwa \"Wissenschaftler\").</string>
+    <string name="fallacies_descs_1_2">Etwas soll wahr sein, weil es ein \"Experte\" oder eine andere Autorität sagt. (Argumentum Ad Verecundiam)</string>
     <string name="fallacies_descs_1_3">Es wird behauptet, dass etwas wahr ist, weil es immer so gemacht wird.</string>
     <string name="fallacies_descs_1_4">Etwas ist wahr, weil es nicht als falsch bewiesen wurde (oder anders herum).</string>
     <string name="fallacies_descs_1_5">Weil etwas schwer vorstellbar ist, wird angenommen, dass es nicht wahr sein kann.</string>
@@ -39,16 +39,16 @@
     <string name="fallacies_descs_1_9">Es wird angenommen, weil etwas geschehen kann, wird es geschehen.</string>
     <string name="fallacies_descs_1_10">Etwas ist wahr, weil es immer schon so war.</string>
 
-    <string name="fallacies_examples_1_1">\'Sie sagen, dass es über sieben Jahre braucht, um ein Kaugummi zu verdauen.\'</string>
-    <string name="fallacies_examples_1_2">\'Über 4000 berühmte Wissenschaftler und Ingenieure diskutieren die globale Erwärmung.\'</string>
-    <string name="fallacies_examples_1_3">\'Die Bank hat Probleme mit Korruption, aber das ist nichts, was es nicht in allen anderen Banken auch so geben würde.\'</string>
-    <string name="fallacies_examples_1_4">\'Niemand hat mir Gott beweisen können, also gibt es keinen Gott.\'</string>
-    <string name="fallacies_examples_1_5">\'Das Auge ist eine unvorstellbar komplexe biochemische Maschine: Wie, außer durch Schöpfung, könnte etwas derartiges entstehen?\'</string>
-    <string name="fallacies_examples_1_6">\'Wenn der Preis höher ist, muss auch der Wert höher sein.\'</string>
-    <string name="fallacies_examples_1_7">\'Wow! Das neue Betriebssystem wird meinen Computer besser und schneller machen...\'</string>
-    <string name="fallacies_examples_1_8">\'Milch ist essenziell für gesunde Knochen.\'</string>
-    <string name="fallacies_examples_1_9">\'Es gibt Milliarden von Galaxien mit Milliarden von Sternen... Irgendwo muss es intelligentes Leben geben.\'</string>
-    <string name="fallacies_examples_1_10">\'Es gab immer eine Regierung. Eine Gesellschaft ohne Regierung kann es also nicht geben.\'</string>
+    <string name="fallacies_examples_1_1">\"Sie sagen, dass es über sieben Jahre braucht, um ein Kaugummi zu verdauen.\"</string>
+    <string name="fallacies_examples_1_2">\"Über 4000 berühmte Wissenschaftler und Ingenieure diskutieren die globale Erwärmung.\"</string>
+    <string name="fallacies_examples_1_3">\"Die Bank hat Probleme mit Korruption, aber das ist nichts, was es nicht in allen anderen Banken auch so geben würde.\"</string>
+    <string name="fallacies_examples_1_4">\"Niemand hat mir Gott beweisen können, also gibt es keinen Gott.\"</string>
+    <string name="fallacies_examples_1_5">\"Das Auge ist eine unvorstellbar komplexe biochemische Maschine: Wie, außer durch Schöpfung, könnte etwas derartiges entstehen?\"</string>
+    <string name="fallacies_examples_1_6">\"Wenn der Preis höher ist, muss auch der Wert höher sein.\"</string>
+    <string name="fallacies_examples_1_7">\"Wow! Das neue Betriebssystem wird meinen Computer besser und schneller machen...\"</string>
+    <string name="fallacies_examples_1_8">\"Milch ist essenziell für gesunde Knochen.\"</string>
+    <string name="fallacies_examples_1_9">\"Es gibt Milliarden von Galaxien mit Milliarden von Sternen... Irgendwo muss es intelligentes Leben geben.\"</string>
+    <string name="fallacies_examples_1_10">\"Es gab immer eine Regierung. Eine Gesellschaft ohne Regierung kann es also nicht geben.\"</string>
 
     <!--fallacies 2-->
     <string name="fallacies_titles_2_1">🔗  Begründung durch Konsequenzen</string>
@@ -58,25 +58,25 @@
     <string name="fallacies_titles_2_5">😥  Begründung durch Schandhaftigkeit</string>
     <string name="fallacies_titles_2_6">😝  Begründung durch Spott</string>
     <string name="fallacies_titles_2_7">😠  Begründung durch Boshaftigkeit</string>
-    <string name="fallacies_titles_2_8">🤡  Begründung durch Wunschdenken</string>
+    <string name="fallacies_titles_2_8">🎅  Begründung durch Wunschdenken</string>
 
     <string name="fallacies_descs_2_1">Nego Consequentiam: Etwas kann nicht wahr sein, weil dann auch etwas unvorstellbares wahr sein müsste.</string>
     <string name="fallacies_descs_2_2">Etwas wird durch die Gefährlichkeit der gegnerischen Position begründet.</string>
     <string name="fallacies_descs_2_3">Es wird ein irrelevantes Kompliment gemacht, damit dieses zusammen mit einer unbegründeten Behauptung angenommen wird.</string>
-    <string name="fallacies_descs_2_4">Etwas wird richtiger, weil es \'natürlich\' ist.</string>
+    <string name="fallacies_descs_2_4">Etwas wird richtiger, weil es \"natürlich\" ist.</string>
     <string name="fallacies_descs_2_5">Der Andere hat unrecht, weil seine Position eine Schande ist.</string>
     <string name="fallacies_descs_2_6">Das Argument des Gegners wird so dargestellt, dass es absurd erscheint.</string>
     <string name="fallacies_descs_2_7">Etwas ist falsch, weil es dem Urheber des Arguments nützen würde.</string>
     <string name="fallacies_descs_2_8">Etwas ist wahr oder falsch, nur weil man so stark darauf hofft.</string>
 
-    <string name="fallacies_examples_2_1">\'Das auf dem Video kann nicht der Politiker sein. Wenn er es wäre, hätte er gelogen. Aber er würde niemals lügen.\'</string>
-    <string name="fallacies_examples_2_2">\'Noch bevor du dich wundern kannst, gibt es mehr Moscheen als Kirchen.\'</string>
-    <string name="fallacies_examples_2_3">\'Einem gebildeten Leser (wie Sie einer sind), würde ein solcher Fehlschluss bestimmt auffallen. \'</string>
-    <string name="fallacies_examples_2_4">\'Homosexualität ist unnatürlich. Tiere machen so etwas ja auch nicht.\'</string>
-    <string name="fallacies_examples_2_5">\'Der ehemalige Diktator ist jetzt ein alter und kranker Mann. Es wäre falsch, jetzt ein Verfahren wegen der Anschuldigungen zu eröffnen.\'</string>
-    <string name="fallacies_examples_2_6">\'Wenn ich an Gott glaube, könnte ich genauso gut auch an den Weihnachtsmann glauben.\'</string>
-    <string name="fallacies_examples_2_7">\'Stört es dich nicht auch, dass die reichen Hollywood-Schauspieler ihr Geld nutzen, um uns ihr Weltbild aufzuzwängen?\'</string>
-    <string name="fallacies_examples_2_8">\'Die Kanzlerin lügt nicht. Wir haben sie doch gewählt.\'</string>
+    <string name="fallacies_examples_2_1">\"Das auf dem Video kann nicht der Politiker sein. Wenn er es wäre, hätte er gelogen. Aber er würde niemals lügen.\"</string>
+    <string name="fallacies_examples_2_2">\"Noch bevor du dich wundern kannst, gibt es mehr Moscheen als Kirchen.\"</string>
+    <string name="fallacies_examples_2_3">\"Einem gebildeten Leser (wie Sie einer sind), würde ein solcher Fehlschluss bestimmt auffallen. \"</string>
+    <string name="fallacies_examples_2_4">\"Homosexualität ist unnatürlich. Tiere machen so etwas ja auch nicht.\"</string>
+    <string name="fallacies_examples_2_5">\"Der ehemalige Diktator ist jetzt ein alter und kranker Mann. Es wäre falsch, jetzt ein Verfahren wegen der Anschuldigungen zu eröffnen.\"</string>
+    <string name="fallacies_examples_2_6">\"Wenn ich an Gott glaube, könnte ich genauso gut auch an den Weihnachtsmann glauben.\"</string>
+    <string name="fallacies_examples_2_7">\"Stört es dich nicht auch, dass die reichen Hollywood-Schauspieler ihr Geld nutzen, um uns ihr Weltbild aufzuzwängen?\"</string>
+    <string name="fallacies_examples_2_8">\"Die Kanzlerin lügt nicht. Wir haben sie doch gewählt.\"</string>
 
     <!--fallacies 3-->
     <string name="fallacies_titles_3_1">🚬  Beweis durch Beispiel</string>
@@ -85,7 +85,7 @@
     <string name="fallacies_titles_3_4">🎨  Designfehler</string>
     <string name="fallacies_titles_3_5">♣  Spielerfehlschluss</string>
     <string name="fallacies_titles_3_6">👩‍🦰  Vorschnelle Verallgemeinerung</string>
-    <string name="fallacies_titles_3_7">🏁  Zur Schlussfolgerung springen</string>
+    <string name="fallacies_titles_3_7">🏁  Vorschnelle Schlussfolgerung</string>
     <string name="fallacies_titles_3_8">👍  Goldene Mitte</string>
     <string name="fallacies_titles_3_9">👌  Perfektionismus</string>
     <string name="fallacies_titles_3_10">🕌  Zugehörigkeit</string>
@@ -107,26 +107,26 @@
     <string name="fallacies_descs_3_12">Eine allgemeingültige Regel wird noch weiter ausgeweitet.</string>
     <string name="fallacies_descs_3_13">Zwei Sachen, die eine Eigenschaft teilen, werden für das gleiche gehalten.</string>
 
-    <string name="fallacies_examples_3_1">\'Ich werde weiter rauchen, mein Opa ist auch als Raucher 90 geworden.\'</string>
-    <string name="fallacies_examples_3_2">\'Die Islamisten waren für die letzten Anschläge verantwortlich. Alle Muslime sind Terroristen.\'</string>
-    <string name="fallacies_examples_3_3">\'Viele Konservative sind gegen gleichgeschlechtliche Ehe, bezweifeln die globale Erwärmung oder verneinen die Evolutionstheorie. Also sind alle konservativen homophobe Kreationisten, die der Umwelt schaden wollen.\'</string>
-    <string name="fallacies_examples_3_4">\'Plan 9 ist das eleganteste Unix, also ist es auch das Beste.\'</string>
-    <string name="fallacies_examples_3_5">\'Die letzten 10 Würfe zeigte die Münze immer Kopf; Als nächtes wird sie also auf Zahl fallen.\'</string>
-    <string name="fallacies_examples_3_6">\'Die Frau vor mir hat falsch geparkt. Frauen können nicht Auto fahren.\'</string>
-    <string name="fallacies_examples_3_7">\'Sie will, dass ihre Krankenversicherung für Verhütung zahlt. Was für eine Schlampe!\'</string>
-    <string name="fallacies_examples_3_8">\'Ich hab dein Auto geschrottet: Ich will gar nichts Zahlen und du willst, dass ich alles zahle. Es scheint fair, wenn jeder für die Hälfte aufkommt.\'</string>
-    <string name="fallacies_examples_3_9">\'Was bringen all die Aktionen gegen betrunkenes Autofahren? Die Leute machen es doch trotzdem.\'</string>
-    <string name="fallacies_examples_3_10">\'Für dich mag es wahr sein, für mich aber nicht.\'</string>
-    <string name="fallacies_examples_3_11">\'Diese große Schuhmarke produziert in Kinderarbeit. Also sind alle großen Schuhmarken die Ausbeuter von kleinen Kindern.\'</string>
-    <string name="fallacies_examples_3_12">\'Die jungen Männer haben einen Aufstand gemacht, weil sie nicht erzogen wurden.\'</string>
-    <string name="fallacies_examples_3_13">\'Eine Theorie muss nicht belegt sein. Es heißt Evolutionstheorie. Also ist die Evolutionstheorie noch gar nicht belegt.\'</string>
+    <string name="fallacies_examples_3_1">\"Ich werde weiter rauchen, mein Opa ist auch als Raucher 90 geworden.\"</string>
+    <string name="fallacies_examples_3_2">\"Die Islamisten waren für die letzten Anschläge verantwortlich. Alle Muslime sind Terroristen.\"</string>
+    <string name="fallacies_examples_3_3">\"Viele Konservative sind gegen gleichgeschlechtliche Ehe, bezweifeln die globale Erwärmung oder verneinen die Evolutionstheorie. Also sind alle konservativen homophobe Kreationisten, die der Umwelt schaden wollen.\"</string>
+    <string name="fallacies_examples_3_4">\"Plan 9 ist das eleganteste Unix, also ist es auch das Beste.\"</string>
+    <string name="fallacies_examples_3_5">\"Die letzten 10 Würfe zeigte die Münze immer Kopf; Als nächtes wird sie also auf Zahl fallen.\"</string>
+    <string name="fallacies_examples_3_6">\"Die Frau vor mir hat falsch geparkt. Frauen können nicht Auto fahren.\"</string>
+    <string name="fallacies_examples_3_7">\"Sie will, dass ihre Krankenversicherung für Verhütung zahlt. Was für eine Schlampe!\"</string>
+    <string name="fallacies_examples_3_8">\"Ich hab dein Auto geschrottet: Ich will gar nichts Zahlen und du willst, dass ich alles zahle. Es scheint fair, wenn jeder für die Hälfte aufkommt.\"</string>
+    <string name="fallacies_examples_3_9">\"Was bringen all die Aktionen gegen betrunkenes Autofahren? Die Leute machen es doch trotzdem.\"</string>
+    <string name="fallacies_examples_3_10">\"Für dich mag es wahr sein, für mich aber nicht.\"</string>
+    <string name="fallacies_examples_3_11">\"Diese große Schuhmarke produziert in Kinderarbeit. Also sind alle großen Schuhmarken die Ausbeuter von kleinen Kindern.\"</string>
+    <string name="fallacies_examples_3_12">\"Die jungen Männer haben einen Aufstand gemacht, weil sie nicht erzogen wurden.\"</string>
+    <string name="fallacies_examples_3_13">\"Eine Theorie muss nicht belegt sein. Es heißt Evolutionstheorie. Also ist die Evolutionstheorie noch gar nicht belegt.\"</string>
 
     <!--fallacies 4-->
     <string name="fallacies_titles_4_1">🥇  Einzige Erklärung</string>
     <string name="fallacies_titles_4_2">💫  Selbstreferenzielle Logik</string>
     <string name="fallacies_titles_4_3">🎭  Scheinbarer Zusammenhang</string>
     <string name="fallacies_titles_4_4">🌱  Bestreiten der Ursache</string>
-    <string name="fallacies_titles_4_5">🕳  Etwas naheliegendes Ignorieren</string>
+    <string name="fallacies_titles_4_5">🕳  Naheliegendes Ignorieren</string>
     <string name="fallacies_titles_4_6">🕰  Zeitliche Abfolge</string>
     <string name="fallacies_titles_4_7">💢  Doppelt falsch ist Richtig</string>
 
@@ -138,13 +138,13 @@
     <string name="fallacies_descs_4_6">Weil ein bestimmtes Ereignis auf ein anderes folgt, soll das erste auch die Ursache für das zweite sein. (Post Hoc Ergo Propter Hoc)</string>
     <string name="fallacies_descs_4_7">Weil etwas falsch ist, kann es durch weitere falsche Schritte wieder richtig werden.</string>
 
-    <string name="fallacies_examples_4_1">\'Wenn geheiratet wird kommt es oft zu Kindern. Deswegen gibt es die Ehe.\'</string>
-    <string name="fallacies_examples_4_2">\'Einschränkungen der Privatsphäre stören nur Menschen, die etwas zu verbergen haben. Also musst du etwas verbergen wollen, wenn du für Datenschutz bist.\'</string>
-    <string name="fallacies_examples_4_3">\'Jugendliche hören gewaltverherrlichende Texte in der Rap-Musik. Rap verursacht Jugendgewalt.\'</string>
-    <string name="fallacies_examples_4_4">\'Wenn du einen Abschluss hast, bekommst du einen guten Job. Bekommst du keine guten Abschluss, bekommst du auch keinen guten Job.\'</string>
-    <string name="fallacies_examples_4_5">\'Wir hatten die 68er und jetzt sterben die leute an AIDS.\'</string>
-    <string name="fallacies_examples_4_6">\'Seit der Wahl läuft die Wirtschaft gut. Die Regierung leistet gute Arbeit.\'</string>
-    <string name="fallacies_examples_4_7">\'Natürlich sind die Bedingungen im Gefängnis schlimm. Aber im Gefängnis sind ja auch Kriminelle! \'</string>
+    <string name="fallacies_examples_4_1">\"Wenn geheiratet wird kommt es oft zu Kindern. Deswegen gibt es die Ehe.\"</string>
+    <string name="fallacies_examples_4_2">\"Einschränkungen der Privatsphäre stören nur Menschen, die etwas zu verbergen haben. Also musst du etwas verbergen wollen, wenn du für Datenschutz bist.\"</string>
+    <string name="fallacies_examples_4_3">\"Jugendliche hören gewaltverherrlichende Texte in der Rap-Musik. Rap verursacht Jugendgewalt.\"</string>
+    <string name="fallacies_examples_4_4">\"Wenn du einen Abschluss hast, bekommst du einen guten Job. Bekommst du keine guten Abschluss, bekommst du auch keinen guten Job.\"</string>
+    <string name="fallacies_examples_4_5">\"Wir hatten die 68er und jetzt sterben die leute an AIDS.\"</string>
+    <string name="fallacies_examples_4_6">\"Seit der Wahl läuft die Wirtschaft gut. Die Regierung leistet gute Arbeit.\"</string>
+    <string name="fallacies_examples_4_7">\"Natürlich sind die Bedingungen im Gefängnis schlimm. Aber im Gefängnis sind ja auch Kriminelle! \"</string>
 
     <!--fallacies 5-->
     <string name="fallacies_titles_5_1">➰  Wiederholung</string>
@@ -171,21 +171,21 @@
     <string name="fallacies_descs_5_10">Es wird absichtlich schlecht für die gegnerische Position argumentiert.</string>
     <string name="fallacies_descs_5_11">Es wird eine Behauptung gemacht, die nicht widerlegt werden kann.</string>
 
-    <string name="fallacies_examples_5_1">\'Aber abgesehen von besserer Infrastruktur, Medizin, Bildung, Wasseranschluss, öffentlicher Gesundheit, Straßen, einem Trinkwassersystem und öffentlicher Ordnung... Was haben die Römer je für uns getan?\'</string>
-    <string name="fallacies_examples_5_2">\'Alle illegalen Drogen sind schädlich – darum sind sie ja auch illegal.\'</string>
-    <string name="fallacies_examples_5_3">\'Unsere Webseite hat herausgefunden, das 90% der Internetnutzer gegen Privatsphäre sind.\'</string>
-    <string name="fallacies_examples_5_4">\'Es ist klar: Der 11. September ist eine Verschwörung der amerikanischen Regierung, um die Kriege im Irak und Afganistan zu rechtfertigen.\'</string>
-    <string name="fallacies_examples_5_5">\'Entweder wir reduzieren die Bildungs- und Sozialausgaben, oder die Neuverschuldung nimmt zu. Wir können uns nicht weiter neu verschulden, also müssen die Bildungsausgaben gesenkt werden.\'</string>
-    <string name="fallacies_examples_5_6">\'Ich habe das Geld nicht angenommen.\'</string>
-    <string name="fallacies_examples_5_7">\'Nachdem gleichgeschlechtliche Ehe zugelassen wurde, mussten auch Schulen homosexuelle Bücher haben; Grundschulkinder mussten homosexuelle Märchen lesen und es gab sogar direkte Anleitungen, die homosexuelle Agenda zu stützen.\'</string>
-    <string name="fallacies_examples_5_8">\'Warum sollte der Politiker sich für die Unregelmäßigkeiten in seinen Ausgaben rechtfertigen? Politiker machen doch sonst viel schlimmere Dinge.\'</string>
-    <string name="fallacies_examples_5_9">\'Wenn wir Marihuana legalisieren, werden auch vermehrt Crack und Heroin konsumiert. Danach müssen wir dann auch diese Drogen legalisieren.\'</string>
-    <string name="fallacies_examples_5_10">\'Die Irakische Regierung produziert schon chemische und biologische Waffen, also wird sie auch Atomwaffen produzieren.\'</string>
-    <string name="fallacies_examples_5_11">\'Er lügt, weil er vom Teufel besessen ist.\'</string>
+    <string name="fallacies_examples_5_1">\"Aber abgesehen von besserer Infrastruktur, Medizin, Bildung, Wasseranschluss, öffentlicher Gesundheit, Straßen, einem Trinkwassersystem und öffentlicher Ordnung... Was haben die Römer je für uns getan?\"</string>
+    <string name="fallacies_examples_5_2">\"Alle illegalen Drogen sind schädlich – darum sind sie ja auch illegal!\"</string>
+    <string name="fallacies_examples_5_3">\"Unsere Webseite hat herausgefunden, das 90% der Internetnutzer gegen Privatsphäre sind.\"</string>
+    <string name="fallacies_examples_5_4">\"Es ist klar: Der 11. September ist eine Verschwörung der amerikanischen Regierung, um die Kriege im Irak und Afganistan zu rechtfertigen.\"</string>
+    <string name="fallacies_examples_5_5">\"Entweder wir reduzieren die Bildungs- und Sozialausgaben, oder die Neuverschuldung nimmt zu. Wir können uns nicht weiter neu verschulden, also müssen die Bildungsausgaben gesenkt werden.\"</string>
+    <string name="fallacies_examples_5_6">\"Ich habe das Geld nicht angenommen.\"</string>
+    <string name="fallacies_examples_5_7">\"Nachdem gleichgeschlechtliche Ehe zugelassen wurde, mussten auch Schulen homosexuelle Bücher haben; Grundschulkinder mussten homosexuelle Märchen lesen und es gab sogar direkte Anleitungen, die homosexuelle Agenda zu stützen.\"</string>
+    <string name="fallacies_examples_5_8">\"Warum sollte der Politiker sich für die Unregelmäßigkeiten in seinen Ausgaben rechtfertigen? Politiker machen doch sonst viel schlimmere Dinge.\"</string>
+    <string name="fallacies_examples_5_9">\"Wenn wir Marihuana legalisieren, werden auch vermehrt Crack und Heroin konsumiert. Danach müssen wir dann auch diese Drogen legalisieren.\"</string>
+    <string name="fallacies_examples_5_10">\"Die Irakische Regierung produziert schon chemische und biologische Waffen, also wird sie auch Atomwaffen produzieren.\"</string>
+    <string name="fallacies_examples_5_11">\"Er lügt, weil er vom Teufel besessen ist.\"</string>
 
     <!--fallacies 6-->
     <string name="fallacies_titles_6_1">🗡  Persönliche Attacke</string>
-    <string name="fallacies_titles_6_2">🧱  Last des Beweises</string>
+    <string name="fallacies_titles_6_2">🛡  Last des Beweises</string>
     <string name="fallacies_titles_6_3">📙  Nutzen für den Urheber</string>
     <string name="fallacies_titles_6_4">🧬  Vererbter Fehler</string>
     <string name="fallacies_titles_6_5">🤝  Schuld durch Genossenschaft</string>
@@ -198,18 +198,18 @@
     <string name="fallacies_descs_6_5">Ein Argument wird dadurch schlecht, indem es mit einer bestimmten Person oder Gruppe assoziiert wird.</string>
     <string name="fallacies_descs_6_6">Man erzeugt eine Karikatur der gegnerischen Position und argumentiert dann gegen diese.</string>
 
-    <string name="fallacies_examples_6_1">\'Wer will, dass wir am Ground Zero eine Moschee bauen, ist ein antiamerikanischer Liberaler.\'</string>
-    <string name="fallacies_examples_6_2">\'Ich denke, große Klimazyklen sind der Grund für die globale Erwärmung. Zeig\', dass ich falsch liege.\'</string>
-    <string name="fallacies_examples_6_3">\'Die Studie über die Risiken der Handystrahlung wurde von Mobilfunkfirmen mitfinanziert, also ist sie unglaubwürdig.\'</string>
-    <string name="fallacies_examples_6_4">\'Natürlich werden die liberitären Leitmedien nicht sagen, dass Obama ein Moslem ist.\'</string>
-    <string name="fallacies_examples_6_5">\'Aha, die Gesetze gegen den Terrorismus zu schwächen wäre ganz im Sinne der Terroristen. Gib zu, du unterstützt Terrorismus!\'</string>
-    <string name="fallacies_examples_6_6">\'Du sagst, Israel sollte die Siedlungen in West Bank stoppen: Warum sprichst du Israel das Recht ab, eine Nation zu sein?\'</string>
+    <string name="fallacies_examples_6_1">\"Wer will, dass wir am Ground Zero eine Moschee bauen, ist ein anti-amerikanischer Liberaler!\"</string>
+    <string name="fallacies_examples_6_2">\"Ich denke, große Klimazyklen sind der Grund für die globale Erwärmung. Zeig\", dass ich falsch liege.\"</string>
+    <string name="fallacies_examples_6_3">\"Die Studie über die Risiken der Handystrahlung wurde von Mobilfunkfirmen mitfinanziert, also ist sie unglaubwürdig.\"</string>
+    <string name="fallacies_examples_6_4">\"Natürlich werden die liberitären Leitmedien nicht sagen, dass Obama ein Moslem ist.\"</string>
+    <string name="fallacies_examples_6_5">\"Aha, die Gesetze gegen den Terrorismus zu schwächen wäre ganz im Sinne der Terroristen. Gib zu, du unterstützt Terrorismus!\"</string>
+    <string name="fallacies_examples_6_6">\"Du sagst, Israel sollte die Siedlungen in West Bank stoppen: Warum sprichst du Israel das Recht ab, eine Nation zu sein?\"</string>
 
     <string name="title_activity_about">Über die App</string>
     <string name="action_settings">Einstellungen</string>
     <string name="creator">Programmiert von LukeStoneHm\n2015 (übersetzt ins Deutsche von Arndt Adler)</string>
     <string name="about_more">Eine einfache und schöne App, die logische Fehlschlüsse in einer wunderschönen Form präsentiert.\n\nDiese App ist freie Software (frei wie in Freiheit). Sie steht unter GPL-2-Lizenz.\n\nDu bist eingeladen, dir den Quellcode auf GitHub anzusehen.\n\nhttps://github.com/LukeStonehm/LogicalDefence/</string>
-    <string name="from">\n\ngeteilt mit der Logical Defence App</string>
+    <string name="from"></string>
     <string name="share">Teile einen Fehlschluss</string>
     <string name="action_language">Sprache</string>
     <string name="language_dialog_title">Sprache wählen</string>
