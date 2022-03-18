@@ -1,4 +1,4 @@
-package za.co.lukestonehm.logicaldefence;
+package com.florianegerer.dagger;
 
 /**
  * Custom object that represents a fallacy

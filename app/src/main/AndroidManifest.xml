@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="za.co.lukestonehm.logicaldefence">
+    package="com.florianegerer.dagger">
 
     <application
         android:allowBackup="true"
@@ -22,7 +22,7 @@
             android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="za.co.lukestonehm.logicaldefence.MainActivity" />
+                android:value="com.florianegerer.dagger.MainActivity" />
         </activity>
     </application>
 

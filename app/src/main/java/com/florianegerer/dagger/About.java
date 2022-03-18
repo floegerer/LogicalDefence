@@ -1,4 +1,4 @@
-package za.co.lukestonehm.logicaldefence;
+package com.florianegerer.dagger;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;

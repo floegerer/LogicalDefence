@@ -5,8 +5,9 @@ android {
     buildToolsVersion '25.0.2'
 
     defaultConfig {
-        applicationId "za.co.lukestonehm.logicaldefence"
+        applicationId "com.florianegerer.dagger"
         minSdkVersion 16
+        //noinspection ExpiredTargetSdkVersion
         targetSdkVersion 25
         versionCode 22
         versionName "1.5.1"

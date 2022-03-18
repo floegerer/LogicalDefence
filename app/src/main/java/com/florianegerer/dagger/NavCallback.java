@@ -1,4 +1,4 @@
-package za.co.lukestonehm.logicaldefence;
+package com.florianegerer.dagger;
 
 /**
  * Callbacks interface that all activities using this fragment must implement.

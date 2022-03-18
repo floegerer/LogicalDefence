@@ -1,4 +1,4 @@
-package za.co.lukestonehm.logicaldefence;
+package com.florianegerer.dagger;
 
 import android.app.Activity;
 import android.content.DialogInterface;
