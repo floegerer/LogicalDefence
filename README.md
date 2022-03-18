@@ -1,4 +1,4 @@
-# LogicalDefence
+# Dagger
 An open source Android app that displays a list of the logical fallacies that haunt every rationalists' world
 
 [![Download from Google Play](http://www.android.com/images/brand/android_app_on_play_large.png "Download from Google Play")](https://play.google.com/store/apps/details?id=com.florianegerer.dagger)
@@ -6,6 +6,3 @@ An open source Android app that displays a list of the logical fallacies that ha
 
 ## License
 GNU GPL2+
-
-## Attributes
-Brain icon was found on Icon Finder - https://www.iconfinder.com/icons/190293/brain_games_icon (could not find the author's website)
